@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\KnockoutStudy\KnockoutStudy.Model\bin\Debug\KnockoutStudy.Model.dll.config
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\KnockoutStudy\KnockoutStudy.Model\bin\Debug\KnockoutStudy.Model.dll
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\KnockoutStudy\KnockoutStudy.Model\bin\Debug\KnockoutStudy.Model.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\KnockoutStudy\KnockoutStudy.Model\obj\Debug\KnockoutStudy.Model.dll
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\KnockoutStudy\KnockoutStudy.Model\obj\Debug\KnockoutStudy.Model.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\KnockoutStudy\KnockoutStudy.Model\obj\Debug\KnockoutStudy.Model.csprojResolveAssemblyReference.cache

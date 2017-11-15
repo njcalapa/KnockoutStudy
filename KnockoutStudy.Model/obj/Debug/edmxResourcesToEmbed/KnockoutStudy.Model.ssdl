@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KnockOutModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="KnockOutModelStoreContainer">
+    <EntitySet Name="Friend" EntityType="KnockOutModel.Store.Friend" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Friend">
+    <Key>
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="IsOnTwitter" Type="bit" />
+    <Property Name="TwitterName" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+</Schema>

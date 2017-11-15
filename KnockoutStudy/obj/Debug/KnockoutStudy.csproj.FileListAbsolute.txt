@@ -1,0 +1,10 @@
+c:\users\nick\documents\visual studio 2010\Projects\KnockoutStudy\KnockoutStudy\bin\KnockoutStudy.dll
+c:\users\nick\documents\visual studio 2010\Projects\KnockoutStudy\KnockoutStudy\bin\KnockoutStudy.pdb
+c:\users\nick\documents\visual studio 2010\Projects\KnockoutStudy\KnockoutStudy\bin\EntityFramework.dll
+c:\users\nick\documents\visual studio 2010\Projects\KnockoutStudy\KnockoutStudy\bin\EntityFramework.xml
+c:\users\nick\documents\visual studio 2010\Projects\KnockoutStudy\KnockoutStudy\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2010\Projects\KnockoutStudy\KnockoutStudy\obj\Debug\KnockoutStudy.dll
+c:\users\nick\documents\visual studio 2010\Projects\KnockoutStudy\KnockoutStudy\obj\Debug\KnockoutStudy.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\KnockoutStudy\KnockoutStudy\bin\KnockoutStudy.Model.dll
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\KnockoutStudy\KnockoutStudy\bin\KnockoutStudy.Model.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\KnockoutStudy\KnockoutStudy\obj\Debug\KnockoutStudy.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KnockOutModelStoreContainer" CdmEntityContainer="KnockOutEntities">
+    <EntitySetMapping Name="Friend">
+      <EntityTypeMapping TypeName="KnockOutModel.Friend">
+        <MappingFragment StoreEntitySet="Friend">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="IsOnTwitter" ColumnName="IsOnTwitter" />
+          <ScalarProperty Name="TwitterName" ColumnName="TwitterName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
